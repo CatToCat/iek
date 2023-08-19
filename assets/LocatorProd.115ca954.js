@@ -1,0 +1,1 @@
+import{Q as a}from"./QPage.ba60b987.js";import{_ as e,ai as o,a0 as r,a1 as t,a2 as c,a6 as s}from"./index.1a0ddb21.js";const n=o({name:"LocatorProd"});function f(d,p,_,i,l,m){return r(),t(a,{class:"flex flex-center"},{default:c(()=>[s(" LocatorProd.vue ")]),_:1})}var P=e(n,[["render",f]]);export{P as default};
