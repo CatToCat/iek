@@ -1,1 +1,0 @@
-import{Q as e}from"./QPage.5df8ead7.js";import{_ as a,ai as t,a0 as r,a1 as o,a2 as n,a6 as s}from"./index.5f37100d.js";const c=t({name:"GeneratorStream"});function f(m,p,_,i,d,l){return r(),o(e,{class:"flex flex-center"},{default:n(()=>[s(" Coming Soon ")]),_:1})}var $=a(c,[["render",f]]);export{$ as default};
